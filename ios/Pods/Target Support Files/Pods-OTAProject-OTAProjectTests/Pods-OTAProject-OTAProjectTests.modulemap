@@ -1,0 +1,6 @@
+module Pods_OTAProject_OTAProjectTests {
+  umbrella header "Pods-OTAProject-OTAProjectTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
